@@ -2,7 +2,8 @@
 
 
 
-# Styles of Learning 
+ 
+    
     > In this  world of so many 
     styles of learning 
     Which one do you choose? 
