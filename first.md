@@ -1,3 +1,13 @@
+
+
+[second[(https://github.com/tes28sar/group-note.git)
+
 # Styles of Learning 
-There are so many styles of learning.
-The most well known one is taking notes.
+    > In this  world of so many 
+    styles of learning 
+    Which one do you choose? 
+   >
+   > Keep trying to find the one,
+    don't give up, and when you finally 
+    find it, and it finally clicks, and things
+    fall into place, stick with it 
