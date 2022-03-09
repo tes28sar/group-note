@@ -1,6 +1,6 @@
 
 
-[second[(https://github.com/tes28sar/group-note.git)
+
 
 # Styles of Learning 
     > In this  world of so many 
